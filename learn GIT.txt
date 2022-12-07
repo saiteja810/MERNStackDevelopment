@@ -1,2 +1,15 @@
 /*Command to get respository from online github into local respository*/
+
 - git clone https://github.com/saiteja810/MERNStackDevelopment.git
+
+/*Command to share changes in local respository to github */
+
+- git status
+- git add .
+- git commit -m " Message/Version"
+- git push
+
+/*Command to share respository to other local system*/
+
+- git fetch
+- git pull
