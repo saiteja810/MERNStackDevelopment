@@ -14,3 +14,7 @@
 
 - git fetch
 - git pull
+
+/* Command to show status of changes */
+
+- git status
