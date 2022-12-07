@@ -18,7 +18,3 @@
 /* Command to show status of changes */
 
 - git status
-
-/* Command to delete file */
-
-- git rm "filename"
