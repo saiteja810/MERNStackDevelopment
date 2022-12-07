@@ -1,0 +1,2 @@
+/*Command to get respository from online github into local respository*/
+- git clone https://github.com/saiteja810/MERNStackDevelopment.git
